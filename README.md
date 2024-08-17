@@ -54,6 +54,21 @@
     <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
         <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" width="40" height="40"/> 
     </a> 
+  <a href="https://julialang.org" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Julia_Programming_Language_Logo.svg" alt="Julia" width="40" height="40"/> 
+    </a>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> 
+        <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40"/>
+    </a>
+    <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40"/>
+    </a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+        <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/> 
+    </a>
+     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
+        <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="40" height="40"/>
+    </a>
 </p>
 
 <h3 align="left">Programming Languages:</h3>
